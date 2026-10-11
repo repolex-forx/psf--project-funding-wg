@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/psf/project-funding-wg/commit/9c21a8c901376395330ce493d7923b79379ab666",
       "git:hexsha": "9c21a8c901376395330ce493d7923b79379ab666",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T08:04:48.349308+00:00"
     }
   ]
 }
