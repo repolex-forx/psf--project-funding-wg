@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "psf",
+  "repo": "project-funding-wg",
+  "versions": [
+    {
+      "commit": "9c21a8c901376395330ce493d7923b79379ab666",
+      "parsed_at": "2026-10-11T08:02:51.431109+00:00",
+      "filetree": "filetree/9c21a8c901376395330ce493d7923b79379ab666.nq.gz",
+      "blobs": [
+        "blob/aa7a3ad0c209cf76ad36ae80be0a8e3dc747ce25.nq.gz",
+        "blob/ad901d53334780892f6afd3a2414c135675104c3.nq.gz",
+        "blob/7bd85a7363073962e41fbf0b7bb8ac298f632609.nq.gz",
+        "blob/b5edae63914ad5d13b32367b8bd8d0ee172a1520.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
